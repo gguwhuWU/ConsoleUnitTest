@@ -1,0 +1,6 @@
+c:\users\huanyu\documents\visual studio 2015\Projects\ConsoleUnitTest\ConsoleUnitTest\bin\Debug\ConsoleUnitTest.exe.config
+c:\users\huanyu\documents\visual studio 2015\Projects\ConsoleUnitTest\ConsoleUnitTest\bin\Debug\ConsoleUnitTest.exe
+c:\users\huanyu\documents\visual studio 2015\Projects\ConsoleUnitTest\ConsoleUnitTest\bin\Debug\ConsoleUnitTest.pdb
+c:\users\huanyu\documents\visual studio 2015\Projects\ConsoleUnitTest\ConsoleUnitTest\obj\Debug\ConsoleUnitTest.csprojResolveAssemblyReference.cache
+c:\users\huanyu\documents\visual studio 2015\Projects\ConsoleUnitTest\ConsoleUnitTest\obj\Debug\ConsoleUnitTest.exe
+c:\users\huanyu\documents\visual studio 2015\Projects\ConsoleUnitTest\ConsoleUnitTest\obj\Debug\ConsoleUnitTest.pdb

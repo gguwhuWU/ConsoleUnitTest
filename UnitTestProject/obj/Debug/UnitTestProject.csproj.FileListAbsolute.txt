@@ -1,0 +1,9 @@
+c:\users\huanyu\documents\visual studio 2015\Projects\ConsoleUnitTest\UnitTestProject\bin\Debug\UnitTestProject.dll
+c:\users\huanyu\documents\visual studio 2015\Projects\ConsoleUnitTest\UnitTestProject\bin\Debug\UnitTestProject.pdb
+c:\users\huanyu\documents\visual studio 2015\Projects\ConsoleUnitTest\UnitTestProject\bin\Debug\ConsoleUnitTest.exe
+c:\users\huanyu\documents\visual studio 2015\Projects\ConsoleUnitTest\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\huanyu\documents\visual studio 2015\Projects\ConsoleUnitTest\UnitTestProject\bin\Debug\ConsoleUnitTest.pdb
+c:\users\huanyu\documents\visual studio 2015\Projects\ConsoleUnitTest\UnitTestProject\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\huanyu\documents\visual studio 2015\Projects\ConsoleUnitTest\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+c:\users\huanyu\documents\visual studio 2015\Projects\ConsoleUnitTest\UnitTestProject\obj\Debug\UnitTestProject.dll
+c:\users\huanyu\documents\visual studio 2015\Projects\ConsoleUnitTest\UnitTestProject\obj\Debug\UnitTestProject.pdb
